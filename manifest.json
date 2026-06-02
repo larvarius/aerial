@@ -1,0 +1,19 @@
+{
+  "id": "mis-canales-personalizados",
+  "name": "Mi Lista de TV",
+  "description": "Canales en vivo para el protector de pantalla",
+  "version": 1,
+  "entries": [
+    {
+      "id": "Espn",
+      "name": "Espn",
+      "points": [
+        {
+          "id": "stream-1",
+          "url": "http://45.5.151.62:8000/play/a00o/index.m3u8"
+        }
+      ]
+    }
+  ]
+}
+
